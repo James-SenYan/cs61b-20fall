@@ -111,7 +111,5 @@ public class TestBSTMapExtra {
         assertEquals(null, noChild.get('Z'));
     }
 
-    public static void main(String[] args) {
-        jh61b.junit.TestRunner.runTests(TestBSTMapExtra.class);
-    }
+
 }
